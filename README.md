@@ -9,12 +9,12 @@
 - CEFR - B2
 
 ## Universiti Teknologi Mara (Foundation in Engineering UiTM)
-### Semester 1
-- UiTM CGPA - 3.79
-- UPU CGPA - 4.00
-### Semester 2
-- UiTM CGPA - 3.89
-- UPU CGPA - 4.00
+- Semester 1
+  - UiTM CGPA - 3.79
+  - UPU CGPA - 4.00
+- Semester 2
+  - UiTM CGPA - 3.89
+  - UPU CGPA - 4.00
 
 - Co-curriculum - 10%
 - MUET - Band 4.5
