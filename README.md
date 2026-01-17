@@ -62,18 +62,44 @@
 - Time management – Manages deadlines and balances multiple tasks efficiently
 
 ## Languages
-Malay - Native
-English - Fluent
-Japanese - Intermediate
+- Malay - Native
+- English - Fluent
+- Japanese - Intermediate
 
-# Certificate & Award
+# Certificates & Awards
 - UiTM Fun Run (Participant)
 - UiTM Neon Run (Participant)
 - UiTM Speed Typing Competition (1st Place)
 - UiTM Chess Competition (Participant)
 - UTM Unbocs Splash Run (Participant)
+- Mental Health Awareness NGO (Volunteer)
 - Japanese Level 11 A to Z Language Centre
 - Piano Grade 4 Polkadot Music Training Studio
 - Muet Band 4.5
 - IELTS Band 7.5
 - Liga EMAS Valorant Season 1 (1st Runner Up)
+
+# Courses & Projects
+## Courses
+## Projects
+- UiTM Arduino Project
+- UiTM Entrepreneurship & Data Analysis Project
+- UiTM Ubiquitous Technology Case Study
+- UTM Design Thinking Project
+- UTM Digital Logic Elevator Project
+- UTM Design Thinking Project
+
+# Reflections
+## PPG Industrial Talk 1
+- This talk made me understand the relevance and value of ICT roles in today’s business world. This presentation opened my eyes to the fact that ICT is not merely a technical job, but it still employs problem-solving and teamwork and is quite important, playing its own role in making business more efficient. This talk not only made me aware of the benefits of ICT, including efficiency, security, and cost-effectiveness, but motivated me to work in this area and enhance omy skill sets in SQL, cloud, and ERP.
+
+## UTM Digital Open Day
+
+## PC Assembling
+- I received hands-on knowledge of computer components from a lab where PCs were assembled, and I gained an even better knowledge of how all the components function in a complete system. This lab not only increased my confidence in handling components but also has made me realize and understand the importance of being accurate and patient, and the desire for further education in the field of computing has been reinforced in me because of this.
+
+## Industrial Talk 2
+- The Industry Talk helped me understand that for a successful computer science career, the right mix of technical knowledge and practical skills is required. It showed the importance of strong fundamentals like Algorithms, System Design, and SDLC to project management and teamwork. The session also portrays the responsible usage of AI tools so that productivity gets enhanced but does not replace core understanding; hence, motivating me to do strategic preparation for the demands in the industry in the future.
+
+## Design Thinking Project
+- This project taught me about the Design Thinking methodology and how it can be employed to create useful solutions for users by following certain phases like empathy, define, ideation, prototype and testing phase. It helped me learn how to tackle problems in a better manner and become competent at designing systems without any presumptions regarding users.
