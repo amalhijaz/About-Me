@@ -1,4 +1,3 @@
-# About-Me
 
 # Education
 ## Sekolah Rendah Kebangsaan Bukit Rahman Putra (
