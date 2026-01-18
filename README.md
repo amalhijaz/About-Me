@@ -1,6 +1,6 @@
 
 # Education
-## Sekolah Rendah Kebangsaan Bukit Rahman Putra (
+## Sekolah Rendah Kebangsaan Bukit Rahman Putra
 - UPSR - 3A, 2B, 1C
 
 ## Sekolah Menengah Kebangsaan Bukit Rahman Putra
