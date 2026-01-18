@@ -79,7 +79,18 @@
 - Liga EMAS Valorant Season 1 (1st Runner Up)
 
 # Courses & Projects
-## Courses
+## Courses (Network & Computer Security)
+- Semester 1
+  - SECP1513 | Technology and Information System
+
+  - SECJ1013 | Programming Technique I
+
+  - SECR1013 | Digital Logic
+
+  - SECI1013 | Discrete Structure
+
+  - ULRS1032 | Integrity and Anti-Corruption
+ 
 ## Projects
 - UiTM Arduino Project
 - UiTM Entrepreneurship & Data Analysis Project
