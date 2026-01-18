@@ -93,7 +93,7 @@
 - This talk made me understand the relevance and value of ICT roles in today’s business world. This presentation opened my eyes to the fact that ICT is not merely a technical job, but it still employs problem-solving and teamwork and is quite important, playing its own role in making business more efficient. This talk not only made me aware of the benefits of ICT, including efficiency, security, and cost-effectiveness, but motivated me to work in this area and enhance omy skill sets in SQL, cloud, and ERP.
 
 ## UTM Digital Open Day
-
+- This event introduced me several tech companies such as the Oracle Academy and DRON Malaysia. The Oracle Academy provides resources that help students like me to develop strong skills in database systems, cloud computing and Java programming. They also offer certificates and courses which students can use for their portfolio to secure job opportunities in the future. Next, DRON Malaysia is a new tech company that is developing an advanced surveillance system integrated with Artifical Intelligence. Their surveillance systems are able to detect the percentage of oxygen and carbon dioxide in the air, facial recognition and etc. These features may aid in criminal investigation in the future.
 ## PC Assembling
 - I received hands-on knowledge of computer components from a lab where PCs were assembled, and I gained an even better knowledge of how all the components function in a complete system. This lab not only increased my confidence in handling components but also has made me realize and understand the importance of being accurate and patient, and the desire for further education in the field of computing has been reinforced in me because of this.
 
