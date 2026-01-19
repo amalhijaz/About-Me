@@ -1,5 +1,3 @@
-https://www.youtube.com/watch?v=3DcsrR0FVx8&list=PLPUygacvheSN6OKOIn7pOd5S5loJiw378&index=4
-
 # Education
 ## Sekolah Rendah Kebangsaan Bukit Rahman Putra
 - UPSR - 3A, 2B, 1C
